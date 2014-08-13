@@ -151,7 +151,6 @@ GEM
       json (>= 1.8.0)
 
 PLATFORMS
-  ruby
   x86-mingw32
 
 DEPENDENCIES
